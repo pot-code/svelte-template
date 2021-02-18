@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=NTR&display=swap');
+
+body {
+  font-family: 'Poppins', 'PingFang SC', 'tahoma', 'Microsoft Yahei', 'helvetica', 'sans-serif';
+}
+:root {
+  /* variables */
+  --lg-radius: 12px;
+  --md-radius: 8px;
+  --sm-radius: 4px;
+}
