@@ -1,5 +1,5 @@
 {
-  "name": "recruiter-dashboard",
+  "name": "svelte-template",
   "version": "1.0.0",
   "scripts": {
     "build": "rollup -c",
@@ -7,7 +7,7 @@
     "start": "node mock/server.js",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "surge": "yarn build && surge public recruiter-dashboard.surge.sh"
+    "surge": "yarn build && surge public svelte-template.surge.sh"
   },
   "browserslist": [
     "cover 80%",
